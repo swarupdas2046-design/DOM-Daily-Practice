@@ -12,7 +12,7 @@ box.forEach(function(val){
     
 });
 val.addEventListener("mouseleave",function(dtls){
-    val.style.backgroundColor = "transparent"
+    // val.style.backgroundColor = "transparent"
 
     val.childNodes[3].style.opacity = 0
    
